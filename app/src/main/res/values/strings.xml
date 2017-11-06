@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="showNames">Нэрс үзүүлэх</string>
+    <string name="contact_activity_name">Contact</string>
+    <string name="calendar_activity_name">Calendar</string>
+</resources>
